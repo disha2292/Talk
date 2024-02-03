@@ -20,9 +20,3 @@ After agreeing then installing the image, hit `Next` then `Finish`.
 ## Running the project
 Once you've set up a virtual device, you can hit `Run` > `Run` and it will start the chosen device, install the app, then open it.
 
-## Authors
-* Saeed Suleiman
-* Charlotte Phillips
-* Aishwarya Anand
-* Ukoh Ndukwo
-* Michael Kiros
